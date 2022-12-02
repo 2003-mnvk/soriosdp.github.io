@@ -1,0 +1,43 @@
+.Contact{
+  width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+width: 100%; height: 100vh;  
+ background-image: url('interior3.jpg');
+
+
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+a.social:hover {
+  transform: translateY(-2px);
+}
+a.youtube {
+  color: #eb3223;
+}
+
+a.facebook {
+  color: #1a58dd;
+}
+
+a.twitter {
+  color: #49a1eb;
+}
+
+a.instagram {
+  color: rgb(255, 0, 200);
+}
+
+
+ 
+
+

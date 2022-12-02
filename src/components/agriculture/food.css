@@ -1,0 +1,33 @@
+.Food{
+    
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+    font-family: Arial, sans-serif;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+width: 100%; height: 100vh;
+
+
+}
+
+
+h3{
+    color: rgb(160, 255, 8);
+    font-family: cursive;
+    font-style: italic;
+    
+}
+.bid{
+    font-family: cursive;
+    font-style: italic;
+  
+}
+h2{
+    color: lightblue;
+}
+   
+

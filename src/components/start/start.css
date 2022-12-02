@@ -1,0 +1,34 @@
+.Start{
+    
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(28, 25, 56);
+    font-family: Arial, sans-serif;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+width: 100%; height: 100vh;
+
+
+}
+
+
+h3{
+    color: rgb(255, 86, 8);
+    font-family: cursive;
+    font-style: italic;
+    
+}
+.bid{
+    font-family: cursive;
+    font-style: italic;
+  
+}
+h2{
+    color: lightblue;
+}
+
+   
+
